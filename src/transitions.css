@@ -1,0 +1,11 @@
+
+/* === Enter Transition === */
+.fadein-enter {
+    opacity: 0;
+}
+
+.fadein-enter-active {
+    opacity: 1;
+    transition: opacity 5000ms;
+}
+
